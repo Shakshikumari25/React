@@ -150,3 +150,17 @@ code {
   border: none;
   cursor: pointer;
 } */
+
+.student{
+  background-color: burlywood;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: 2em;
+  padding: 10px;
+  border: 1px solid hsla(0, 0%, 50%, 0.8);
+}
+
+.student p{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: medium;
+  color: crimson;
+}
