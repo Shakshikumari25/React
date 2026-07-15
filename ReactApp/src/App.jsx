@@ -4,7 +4,8 @@
 // import Card from "./Card"
 // import Button from "./Button"
 // import Student from "./Student.jsx"
-import UserGreeting from "./UserGreeting"
+// import UserGreeting from "./UserGreeting"
+import List from "./List"
 
 function App() {
 
@@ -25,9 +26,12 @@ function App() {
     <Student name="Sandy"/>  */}
 
     {/* CONDITIONAL RENDERING */}
-      <UserGreeting isLoggedIn={true} username="Shakshi" />
+      {/* <UserGreeting isLoggedIn={true} username="Shakshi" />
       <UserGreeting isLoggedIn={false} username="Shakshi" />
-      <UserGreeting isLoggedIn={true}/>
+      <UserGreeting isLoggedIn={true}/> */}
+
+    {/* Render Lists */}
+       <List/>
     </>
   )
 }
