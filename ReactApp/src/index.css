@@ -151,7 +151,7 @@ code {
   cursor: pointer;
 } */
 
-.student{
+/* .student{
   background-color: burlywood;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-family: 2em;
@@ -163,4 +163,20 @@ code {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: medium;
   color: crimson;
+} */
+
+.msg{
+  font-size: 2em;
+  font-family: 'Times New Roman', Times, serif;
+  border: 1px solid black;
+  border-radius: 5%;
+  background-color: cadetblue;
+}
+
+.login{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2em;
+  border: 1px solid salmon;
+  border-radius: 0%;
+  background-color: saddlebrown;
 }
