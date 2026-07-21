@@ -5,7 +5,8 @@
 // import Button from "./Button"
 // import Student from "./Student.jsx"
 // import UserGreeting from "./UserGreeting"
-import List from "./List"
+// import List from "./List"
+import ClickButton from "./Clickbtn"
 
 function App() {
 
@@ -31,7 +32,11 @@ function App() {
       <UserGreeting isLoggedIn={true}/> */}
 
     {/* Render Lists */}
-       <List/>
+       {/* <List/> */}
+
+
+    {/* CLICK EVENTS */}
+        <ClickButton/>
     </>
   )
 }

@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types'
 
 function List(){
     const fruits = [{name:"apple", calories: 95},
