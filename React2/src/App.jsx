@@ -1,12 +1,14 @@
-import MyComp from "./Mycomponent"
+// import MyComp from "./Mycomponent"
 // import Counter from "./Counter"
+import ColorPicker from "./Colorpicker"
 
 function App() {
  
   return (
     <>
-      <MyComp/>
+      {/* <MyComp/> */}
       {/* <Counter/> */}
+      <ColorPicker/>
     </>
   )
 }
