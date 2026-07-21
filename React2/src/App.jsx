@@ -1,12 +1,12 @@
-// import MyComp from "./Mycomponent"
-import Counter from "./Counter"
+import MyComp from "./Mycomponent"
+// import Counter from "./Counter"
 
 function App() {
  
   return (
     <>
-      {/* <MyComp/> */}
-      <Counter/>
+      <MyComp/>
+      {/* <Counter/> */}
     </>
   )
 }
