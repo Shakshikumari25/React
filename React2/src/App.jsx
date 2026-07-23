@@ -1,7 +1,8 @@
 // import MyComp from "./Mycomponent"
 // import Counter from "./Counter"
 // import ColorPicker from "./Colorpicker"
-import Updater from "./Updaterfunc"
+// import Updater from "./Updaterfunc"
+import UpdateObject from "./UpdateObject"
 
 function App() {
  
@@ -10,7 +11,8 @@ function App() {
       {/* <MyComp/> */}
       {/* <Counter/> */}
       {/* <ColorPicker/> */}
-      <Updater/>
+      {/* <Updater/> */}
+      <UpdateObject/>
     </>
   )
 }
