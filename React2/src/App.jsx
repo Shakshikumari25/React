@@ -2,7 +2,8 @@
 // import Counter from "./Counter"
 // import ColorPicker from "./Colorpicker"
 // import Updater from "./Updaterfunc"
-import UpdateObject from "./UpdateObject"
+// import UpdateObject from "./UpdateObject"
+import UpdateArr from "./UpdateArrays"
 
 function App() {
  
@@ -12,7 +13,8 @@ function App() {
       {/* <Counter/> */}
       {/* <ColorPicker/> */}
       {/* <Updater/> */}
-      <UpdateObject/>
+      {/* <UpdateObject/> */}
+      <UpdateArr/>
     </>
   )
 }
