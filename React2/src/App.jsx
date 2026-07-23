@@ -3,7 +3,8 @@
 // import ColorPicker from "./Colorpicker"
 // import Updater from "./Updaterfunc"
 // import UpdateObject from "./UpdateObject"
-import UpdateArr from "./UpdateArrays"
+// import UpdateArr from "./UpdateArrays"
+import Comp from "./UpdateArrofObj"
 
 function App() {
  
@@ -14,7 +15,8 @@ function App() {
       {/* <ColorPicker/> */}
       {/* <Updater/> */}
       {/* <UpdateObject/> */}
-      <UpdateArr/>
+      {/* <UpdateArr/> */}
+      <Comp/>
     </>
   )
 }
